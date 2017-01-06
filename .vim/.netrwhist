@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/root/project/company/xzbb_app_ionic/www/js/services'
+let g:netrw_dirhist_2='/etc/php/php-fpm.d'
+let g:netrw_dirhist_3='/etc/nginx'
+let g:netrw_dirhist_4='/root/.vim/bundle/vim-fugitive'
